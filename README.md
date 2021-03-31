@@ -16,3 +16,6 @@ To tweak the parameters such as font, thickness etc, open
 Keychain_Name_Generator.scad with OpenSCAD, make the changes,
 and save the file. Subsequent generations will use this new 
 settings.
+
+OpenSCAD Command Line Page for Reference:
+https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_OpenSCAD_in_a_command_line_environment
